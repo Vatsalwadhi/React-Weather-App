@@ -1,0 +1,12 @@
+.weather-des {
+    margin-bottom: 10px; /* Adds space below the weather description */
+  }
+  
+  .temp {
+    margin-top: 10px; /* Adds space above the temperature */
+  }
+  
+  .day-temperature {
+    margin-top: 5px; /* Adds space between forecast items */
+  }
+  
