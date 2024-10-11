@@ -1,6 +1,4 @@
-Here's a sample README file template for your React Weather App project. You can customize it further based on your project's specifics.
 
-```markdown
 # React Weather App
 
 ## Description
